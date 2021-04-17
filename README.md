@@ -1,7 +1,7 @@
 # cmakewin32directximgui
 
 # Packages:
-  * imgui 1.82
+  * imgui 1.82 https://github.com/ocornut/imgui
   * cmake 3.20
   * Viusal Studio 2019
 	* Windows Kits 10
